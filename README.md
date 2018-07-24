@@ -1,4 +1,4 @@
-# [Formatting NEON data with D3M]
+# Formatting NEON data with D3M
 This project converts all data from NEON data science evaluation into D3M format.
 It is necessary to [download](https://zenodo.org/record/867646#.W1b6s2ePLmE) a copy of the data before running the scripts.
 There are 4 different types of data: RSdata, Task1, Task2, and Task3.
