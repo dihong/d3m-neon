@@ -1,0 +1,56 @@
+{
+    "about": {
+        "approximateSize": "",
+        "datasetID": "ECODSE_Task1_ITC",
+        "datasetName": "ITC",
+        "datasetSchemaVersion": "1.0",
+        "datasetVersion": "1.0",
+        "license": "",
+        "redacted": true
+    },
+    "dataResources": [
+        {
+            "columns": [
+                {
+                    "colIndex": 0,
+                    "colName": "crown_id",
+                    "colType": "integer",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 1,
+                    "colName": "confidence",
+                    "colType": "string",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 2,
+                    "colName": "Plot_ID",
+                    "colType": "string",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 3,
+                    "colName": "kmlgeometry",
+                    "colType": "string",
+                    "role": [
+                        "attribute"
+                    ]
+                }
+            ],
+            "isCollection": true,
+            "resFormat": [
+                "text/csv"
+            ],
+            "resID": "0",
+            "resPath": "ITC_csv",
+            "resType": "table"
+        }
+    ]
+}
