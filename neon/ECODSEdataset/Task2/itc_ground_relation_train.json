@@ -14,7 +14,7 @@
                 {
                     "colIndex": 0,
                     "colName": "stem_id",
-                    "colType": "string",
+                    "colType": "integer",
                     "role": [
                         "attribute"
                     ]
@@ -22,7 +22,7 @@
                 {
                     "colIndex": 1,
                     "colName": "crown_id",
-                    "colType": "string",
+                    "colType": "integer",
                     "role": [
                         "attribute"
                     ]
