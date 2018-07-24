@@ -30,7 +30,7 @@
                 {
                     "colIndex": 2,
                     "colName": "Noise_flag",
-                    "colType": "string",
+                    "colType": "integer",
                     "role": [
                         "attribute"
                     ]

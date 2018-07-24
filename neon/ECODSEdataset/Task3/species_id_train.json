@@ -14,7 +14,7 @@
                 {
                     "colIndex": 0,
                     "colName": "crown_id",
-                    "colType": "string",
+                    "colType": "integer",
                     "role": [
                         "attribute"
                     ]
