@@ -12,6 +12,13 @@ cd neon/ECODSEdataset/RSdata
 bash convert.sh
 ```
 
+## Task1
+Convert Task1 data to D3M format.
+```bash
+cd neon/ECODSEdataset/Task1
+bash convert.sh
+```
+
 ## Task2
 Convert Task2 data to D3M format.
 ```bash
