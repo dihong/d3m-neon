@@ -1,0 +1,4 @@
+python convert_hyper_bands.py
+python convert_hyper_bands_train.py
+python convert_hyper_bands_test.py
+python convert_species_id_train.py
