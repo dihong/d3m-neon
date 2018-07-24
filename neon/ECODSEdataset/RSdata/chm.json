@@ -1,0 +1,22 @@
+{
+    "about": {
+        "approximateSize": "",
+        "datasetID": "ECODSE_chm",
+        "datasetName": "chm",
+        "datasetSchemaVersion": "1.0",
+        "datasetVersion": "1.0",
+        "license": "",
+        "redacted": true
+    },
+    "dataResources": [
+        {
+            "isCollection": true,
+            "resFormat": [
+                "image/tif"
+            ],
+            "resID": "0",
+            "resPath": "chm",
+            "resType": "image"
+        }
+    ]
+}

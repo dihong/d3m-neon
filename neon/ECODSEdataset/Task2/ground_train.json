@@ -1,0 +1,80 @@
+{
+    "about": {
+        "approximateSize": "",
+        "datasetID": "ECODSE_Task2_ground_train",
+        "datasetName": "ECODSE_Task2_ground_train",
+        "datasetSchemaVersion": "1.0",
+        "datasetVersion": "1.0",
+        "license": "",
+        "redacted": true
+    },
+    "dataResources": [
+        {
+            "columns": [
+                {
+                    "colIndex": 0,
+                    "colName": "stem_id",
+                    "colType": "string",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 1,
+                    "colName": "tag_N",
+                    "colType": "real",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 2,
+                    "colName": "tag_E",
+                    "colType": "real",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 3,
+                    "colName": "height",
+                    "colType": "real",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 4,
+                    "colName": "diameter",
+                    "colType": "real",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 5,
+                    "colName": "cr_max",
+                    "colType": "real",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 6,
+                    "colName": "cr_perp",
+                    "colType": "real",
+                    "role": [
+                        "attribute"
+                    ]
+                }
+            ],
+            "isCollection": false,
+            "resFormat": [
+                "text/csv"
+            ],
+            "resID": "0",
+            "resPath": "GroundData/ground_train.csv",
+            "resType": "table"
+        }
+    ]
+}

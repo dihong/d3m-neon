@@ -1,0 +1,48 @@
+{
+    "about": {
+        "approximateSize": "",
+        "datasetID": "ECODSE_pointCloud",
+        "datasetName": "pointCloud",
+        "datasetSchemaVersion": "1.0",
+        "datasetVersion": "1.0",
+        "license": "",
+        "redacted": true
+    },
+    "dataResources": [
+        {
+            "columns": [
+                {
+                    "colIndex": 0,
+                    "colName": "X",
+                    "colType": "real",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 1,
+                    "colName": "Y",
+                    "colType": "real",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 2,
+                    "colName": "Z",
+                    "colType": "real",
+                    "role": [
+                        "attribute"
+                    ]
+                }
+            ],
+            "isCollection": true,
+            "resFormat": [
+                "text/csv"
+            ],
+            "resID": "0",
+            "resPath": "pointCloud",
+            "resType": "table"
+        }
+    ]
+}

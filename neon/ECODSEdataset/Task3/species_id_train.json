@@ -1,0 +1,64 @@
+{
+    "about": {
+        "approximateSize": "",
+        "datasetID": "ECODSE_Task3_species_id_train",
+        "datasetName": "ECODSE_Task3_species_id_train",
+        "datasetSchemaVersion": "1.0",
+        "datasetVersion": "1.0",
+        "license": "",
+        "redacted": true
+    },
+    "dataResources": [
+        {
+            "columns": [
+                {
+                    "colIndex": 0,
+                    "colName": "crown_id",
+                    "colType": "string",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 1,
+                    "colName": "species",
+                    "colType": "string",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 2,
+                    "colName": "genus",
+                    "colType": "string",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 3,
+                    "colName": "species_id",
+                    "colType": "string",
+                    "role": [
+                        "attribute"
+                    ]
+                },
+                {
+                    "colIndex": 4,
+                    "colName": "genus_id",
+                    "colType": "string",
+                    "role": [
+                        "attribute"
+                    ]
+                }
+            ],
+            "isCollection": false,
+            "resFormat": [
+                "text/csv"
+            ],
+            "resID": "0",
+            "resPath": "GroundData/species_id_train.csv",
+            "resType": "table"
+        }
+    ]
+}
