@@ -1,6 +1,7 @@
-# d3m-neon
+# [d3m-neon]
 
 
 ## RSdata
-`cd neon/ECODSEdataset/RSdata`
-`bash convert.sh`
+Convert RS data to D3M format.
+* `$cd neon/ECODSEdataset/RSdata`
+* `$bash convert.sh`
