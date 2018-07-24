@@ -1,4 +1,4 @@
-# [d3m-neon]
+# [Formatting NEON data with D3M]
 
 
 ## RSdata
